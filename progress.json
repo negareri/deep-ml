@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-09-17T16:24:35.314Z",
+  "items": {
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-07-26T22:46:00.350Z",
+      "last_pushed_at": "2026-07-26T22:46:00.350Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-07-26T23:01:59.428Z",
+      "last_pushed_at": "2026-07-26T23:01:59.428Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-07-26T23:05:39.999Z",
+      "last_pushed_at": "2026-07-26T23:05:39.999Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-07-26T23:16:05.566Z",
+      "last_pushed_at": "2026-07-26T23:16:05.566Z",
+      "language": "python",
+      "lines": 7
+    }
+  }
+}
