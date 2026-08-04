@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:24:39.004Z",
+  "generated_at": "2026-09-17T16:24:40.703Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-07-29T14:26:53.794Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-08-04T23:24:38.569Z",
+      "last_pushed_at": "2026-08-04T23:24:38.569Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
