@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:24:40.703Z",
+  "generated_at": "2026-09-17T16:25:36.658Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -91,6 +91,32 @@
       "last_pushed_at": "2026-08-04T23:24:38.569Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-08-05T00:43:55.667Z",
+      "last_pushed_at": "2026-08-05T00:43:55.667Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-08-05T23:48:44.922Z",
+      "last_pushed_at": "2026-08-05T23:48:44.922Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
