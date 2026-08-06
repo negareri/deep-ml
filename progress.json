@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:25:36.658Z",
+  "generated_at": "2026-09-17T16:25:38.674Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -117,6 +117,97 @@
       "last_pushed_at": "2026-08-05T23:48:44.922Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-08-06T00:30:34.871Z",
+      "last_pushed_at": "2026-08-06T00:30:34.871Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-08-06T18:37:39.687Z",
+      "last_pushed_at": "2026-08-06T18:37:39.687Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-08-06T18:40:37.463Z",
+      "last_pushed_at": "2026-08-06T18:40:37.463Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-08-06T22:51:22.600Z",
+      "last_pushed_at": "2026-08-06T22:51:22.600Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-08-06T23:27:19.429Z",
+      "last_pushed_at": "2026-08-06T23:27:19.429Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-08-06T23:33:48.834Z",
+      "last_pushed_at": "2026-08-06T23:33:48.834Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-08-06T23:47:23.403Z",
+      "last_pushed_at": "2026-08-06T23:47:23.403Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
