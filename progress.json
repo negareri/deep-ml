@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:25:43.345Z",
+  "generated_at": "2026-09-17T16:25:45.455Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -390,6 +390,97 @@
       "last_pushed_at": "2026-08-09T19:55:35.156Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-11T12:48:48.251Z",
+      "last_pushed_at": "2026-08-11T12:48:48.251Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-08-11T13:03:53.092Z",
+      "last_pushed_at": "2026-08-11T13:03:53.092Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-08-11T13:23:56.897Z",
+      "last_pushed_at": "2026-08-11T13:23:56.897Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-08-11T14:15:20.025Z",
+      "last_pushed_at": "2026-08-11T14:15:20.025Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-08-11T15:15:09.130Z",
+      "last_pushed_at": "2026-08-11T15:15:09.130Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-08-11T17:35:36.723Z",
+      "last_pushed_at": "2026-08-11T17:35:36.723Z",
+      "language": "python",
+      "lines": 23
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-08-11T17:50:11.435Z",
+      "last_pushed_at": "2026-08-11T17:50:11.435Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

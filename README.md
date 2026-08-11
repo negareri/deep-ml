@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 30 problems · 0 labs · 0 math
+**37** solved · 36 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-08-07 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
 | [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-08-07 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-08-07 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-08-11 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-08-05 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-08-07 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
@@ -38,10 +39,21 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-08-06 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-06 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-07-26 | [solution](problems/0121-vector-element-wise-sum) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-11 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-08-09 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-08-09 | [solution](problems/0017-k-means-clustering) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-11 | [solution](problems/0009-matrix-times-matrix) |
+| [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-11 | [solution](problems/0007-matrix-transformation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-28 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-08-07 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-11 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-08-11 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-08-11 | [solution](labs/0023-train-a-binary-classifier) |
 
 ---
 
