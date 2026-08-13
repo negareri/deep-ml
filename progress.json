@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:25:45.455Z",
+  "generated_at": "2026-09-17T16:25:47.420Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -481,6 +481,32 @@
       "last_pushed_at": "2026-08-11T17:50:11.435Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-08-13T17:22:08.767Z",
+      "last_pushed_at": "2026-08-13T17:22:08.767Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-08-13T17:52:49.971Z",
+      "last_pushed_at": "2026-08-13T17:52:49.971Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
