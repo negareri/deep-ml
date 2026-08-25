@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:25:49.223Z",
+  "generated_at": "2026-09-17T16:25:51.133Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -520,6 +520,45 @@
       "last_pushed_at": "2026-08-18T18:14:22.170Z",
       "language": "python",
       "lines": 79
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-08-25T06:17:46.208Z",
+      "last_pushed_at": "2026-08-25T06:17:46.208Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:82": {
+      "kind": "problem",
+      "id": "82",
+      "title": "Grayscale Image Contrast Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/82",
+      "path": "problems/0082-grayscale-image-contrast-calculator",
+      "first_solved_at": "2026-08-25T06:38:47.395Z",
+      "last_pushed_at": "2026-08-25T06:38:47.395Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:237": {
+      "kind": "problem",
+      "id": "237",
+      "title": "Convert RGB Image to Grayscale",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/237",
+      "path": "problems/0237-convert-rgb-image-to-grayscale",
+      "first_solved_at": "2026-08-25T07:49:37.357Z",
+      "last_pushed_at": "2026-08-25T07:49:37.357Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
