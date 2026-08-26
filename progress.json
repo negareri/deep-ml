@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:25:51.133Z",
+  "generated_at": "2026-09-17T16:25:53.290Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -559,6 +559,45 @@
       "last_pushed_at": "2026-08-25T07:49:37.357Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:238": {
+      "kind": "problem",
+      "id": "238",
+      "title": "Flip an Image Horizontally or Vertically",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/238",
+      "path": "problems/0238-flip-an-image-horizontally-or-vertically",
+      "first_solved_at": "2026-08-26T19:19:59.359Z",
+      "last_pushed_at": "2026-08-26T19:19:59.359Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:239": {
+      "kind": "problem",
+      "id": "239",
+      "title": "Apply Zero Padding to an Image",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/239",
+      "path": "problems/0239-apply-zero-padding-to-an-image",
+      "first_solved_at": "2026-08-26T20:01:35.391Z",
+      "last_pushed_at": "2026-08-26T20:01:35.391Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-08-26T20:21:30.193Z",
+      "last_pushed_at": "2026-08-26T20:21:30.193Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }

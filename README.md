@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 42 problems · 1 labs · 0 math
+**46** solved · 45 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-08-07 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
+| [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-08-26 | [solution](problems/0239-apply-zero-padding-to-an-image) |
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-08-07 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-08-13 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-08-07 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
@@ -24,10 +25,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-08-07 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-07-26 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-08-25 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-08-26 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-08-07 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-26 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-26 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-07-29 | [solution](problems/0016-feature-scaling-implementation) |
+| [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-08-26 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-08-25 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-08-07 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-06 | [solution](problems/0015-linear-regression-using-gradient-descent) |
