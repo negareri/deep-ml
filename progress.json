@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:25:53.290Z",
+  "generated_at": "2026-09-17T16:25:55.306Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -598,6 +598,71 @@
       "last_pushed_at": "2026-08-26T20:21:30.193Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:713": {
+      "kind": "problem",
+      "id": "713",
+      "title": "Compute PSNR for Image Reconstruction Quality",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/713",
+      "path": "problems/0713-compute-psnr-for-image-reconstruction-quality",
+      "first_solved_at": "2026-09-05T17:02:16.316Z",
+      "last_pushed_at": "2026-09-05T17:02:16.316Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-09-05T17:29:36.153Z",
+      "last_pushed_at": "2026-09-05T17:29:36.153Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-09-05T17:34:15.382Z",
+      "last_pushed_at": "2026-09-05T17:34:15.382Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-09-05T18:13:30.418Z",
+      "last_pushed_at": "2026-09-05T18:13:30.418Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-09-05T18:23:02.153Z",
+      "last_pushed_at": "2026-09-05T18:23:02.153Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
