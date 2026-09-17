@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 50 problems · 1 labs · 0 math
+**52** solved · 51 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-08-25 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-08-07 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-17 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute PSNR for Image Reconstruction Quality](https://www.deep-ml.com/problems/713) | easy | 2026-09-05 | [solution](problems/0713-compute-psnr-for-image-reconstruction-quality) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-07-26 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-08-25 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
