@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 52 problems · 2 labs · 2 math
+**57** solved · 53 problems · 2 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-08-05 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-08-25 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Compare Naive vs Stable Softmax for Attention Scores](https://www.deep-ml.com/problems/962) | easy | 2026-09-17 | [solution](problems/0962-compare-naive-vs-stable-softmax-for-attention-scores) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-08-07 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-17 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute PSNR for Image Reconstruction Quality](https://www.deep-ml.com/problems/713) | easy | 2026-09-05 | [solution](problems/0713-compute-psnr-for-image-reconstruction-quality) |
