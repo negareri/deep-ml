@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 56 problems · 2 labs · 2 math
+**61** solved · 57 problems · 2 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-08-26 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-08-25 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-08-07 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-19 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-17 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-09-19 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/369) | easy | 2026-09-17 | [solution](problems/0369-implement-xavier-glorot-weight-initialization) |
