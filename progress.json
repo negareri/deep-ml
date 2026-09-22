@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T00:05:08.682Z",
+  "generated_at": "2026-09-22T13:18:51.945Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -850,6 +850,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-09-20T00:05:06.444Z",
       "last_pushed_at": "2026-09-20T00:05:06.444Z"
+    },
+    "problem:337": {
+      "kind": "problem",
+      "id": "337",
+      "title": "Maximum Likelihood Estimation for Gaussian Distribution",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/337",
+      "path": "problems/0337-maximum-likelihood-estimation-for-gaussian-distribution",
+      "first_solved_at": "2026-09-22T13:18:50.114Z",
+      "last_pushed_at": "2026-09-22T13:18:50.114Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
