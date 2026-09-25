@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 61 problems · 2 labs · 4 math
+**68** solved · 62 problems · 2 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-07-26 | [solution](problems/0121-vector-element-wise-sum) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-11 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-05 | [solution](problems/0219-derivative-of-softmax) |
+| [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-25 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-08-09 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-05 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-08-09 | [solution](problems/0017-k-means-clustering) |
