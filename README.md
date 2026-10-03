@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 73 problems · 3 labs · 5 math
+**82** solved · 73 problems · 3 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -102,6 +102,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-19 | [solution](math/0005-gradient-descent-updates) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-17 | [solution](math/0007-vector-operations) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-09-30 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
+| [Adam Bias Correction](https://www.deep-ml.com/math-problems/132) | medium | 2026-10-03 | [solution](math/0132-adam-bias-correction) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-20 | [solution](math/0032-softmax-and-cross-entropy) |
 
 ---
