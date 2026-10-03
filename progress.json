@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:01:59.870Z",
+  "generated_at": "2026-10-03T18:22:53.529Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1054,6 +1054,19 @@
       "path": "math/0132-adam-bias-correction",
       "first_solved_at": "2026-10-03T18:01:59.813Z",
       "last_pushed_at": "2026-10-03T18:01:59.813Z"
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2026-10-03T18:22:52.208Z",
+      "last_pushed_at": "2026-10-03T18:22:52.208Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
