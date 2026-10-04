@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:33:16.785Z",
+  "generated_at": "2026-10-04T15:42:50.047Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1115,6 +1115,19 @@
       "path": "math/0003-neural-network-derivatives",
       "first_solved_at": "2026-10-04T15:33:18.203Z",
       "last_pushed_at": "2026-10-04T15:33:18.203Z"
+    },
+    "problem:899": {
+      "kind": "problem",
+      "id": "899",
+      "title": "Build a Dataset and Use It with a DataLoader",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/899",
+      "path": "problems/0899-build-a-dataset-and-use-it-with-a-dataloader",
+      "first_solved_at": "2026-10-04T15:42:51.384Z",
+      "last_pushed_at": "2026-10-04T15:42:51.384Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
