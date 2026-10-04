@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:07:15.183Z",
+  "generated_at": "2026-10-04T13:46:12.901Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1078,6 +1078,19 @@
       "path": "math/0131-variance-preservation-and-he-glorot-scaling",
       "first_solved_at": "2026-10-03T19:07:15.082Z",
       "last_pushed_at": "2026-10-03T19:07:15.082Z"
+    },
+    "problem:370": {
+      "kind": "problem",
+      "id": "370",
+      "title": "Implement He Weight Initialization for Neural Networks",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/370",
+      "path": "problems/0370-implement-he-weight-initialization-for-neural-networks",
+      "first_solved_at": "2026-10-04T13:46:14.273Z",
+      "last_pushed_at": "2026-10-04T13:46:14.273Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
