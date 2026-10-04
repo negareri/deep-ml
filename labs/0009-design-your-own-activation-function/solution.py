@@ -15,7 +15,7 @@ def activation(x):
         - Must work on arrays of any shape
         - Must be deterministic
     '''
-    
-    result = np.maximum(0, x)
+
+    result = np.maximum(0.005, x)
     
     return result
