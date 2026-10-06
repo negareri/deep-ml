@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 82 problems · 4 labs · 8 math
+**95** solved · 83 problems · 4 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -94,6 +94,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-11 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-04 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-08-11 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-06 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ## Labs
 
