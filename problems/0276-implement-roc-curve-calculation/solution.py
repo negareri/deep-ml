@@ -1,0 +1,58 @@
+import numpy as np
+
+def compute_roc_curve(y_true: list, y_scores: list) -> tuple:
+    """
+    Compute ROC curve points (FPR, TPR) for binary classification.
+    
+    Args:
+        y_true: Binary ground truth labels (0 or 1)
+        y_scores: Predicted scores/probabilities for the positive class
+    
+    Returns:
+        Tuple of (fpr, tpr) where each is a list of floats
+    """
+    tpr = []
+    fpr = []
+
+    thrs = np.unique(y_scores)
+    thrs = np.sort(thrs)[::-1]
+    thrs = np.insert(thrs, 0, np.inf)
+
+    for thr in thrs:
+        y_pred = []
+
+        for i in range(len(y_scores)):
+            if y_scores[i] >= thr:
+                y_pred.append(1)
+            else:
+                y_pred.append(0)
+
+        tp = 0
+        fp = 0
+        tn = 0
+        fn = 0
+
+        for i in range(len(y_true)):
+
+            if y_true[i] == 1:
+                if y_pred[i] == 1:
+                    tp += 1
+                else:
+                    fn += 1
+
+            elif y_true[i] == 0:
+                if y_pred[i] == 1:
+                    fp += 1
+                else:
+                    tn += 1
+        if (tp + fn) == 0:
+            tpr.append(0)
+        else:
+            tpr.append(tp / (tp + fn))
+
+        if (fp + tn) == 0:
+            fpr.append(0)
+        else:
+            fpr.append(fp / (fp + tn))
+
+    return (fpr, tpr)
