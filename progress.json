@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:16:34.962Z",
+  "generated_at": "2026-10-13T13:25:55.314Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1360,6 +1360,19 @@
       "path": "math/0026-maximum-likelihood-and-map",
       "first_solved_at": "2026-10-11T16:16:40.279Z",
       "last_pushed_at": "2026-10-11T16:16:40.279Z"
+    },
+    "problem:240": {
+      "kind": "problem",
+      "id": "240",
+      "title": "Bilinear Image Resizing",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/240",
+      "path": "problems/0240-bilinear-image-resizing",
+      "first_solved_at": "2026-10-13T13:26:01.566Z",
+      "last_pushed_at": "2026-10-13T13:26:01.566Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
