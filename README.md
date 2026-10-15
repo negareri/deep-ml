@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 96 problems · 5 labs · 9 math
+**111** solved · 97 problems · 5 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-10-10 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-26 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-07-29 | [solution](problems/0016-feature-scaling-implementation) |
+| [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-15 | [solution](problems/1103-filter-rows-with-where) |
 | [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-08-26 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-10 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-08-25 | [solution](problems/0082-grayscale-image-contrast-calculator) |
