@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:09:04.443Z",
+  "generated_at": "2026-10-16T15:10:33.491Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1461,7 +1461,7 @@
       "url": "https://www.deep-ml.com/problems/1230",
       "path": "problems/1230-dropout-in-train-vs-eval-mode",
       "first_solved_at": "2026-10-16T15:09:11.195Z",
-      "last_pushed_at": "2026-10-16T15:09:11.195Z",
+      "last_pushed_at": "2026-10-16T15:10:41.168Z",
       "language": "python",
       "lines": 25
     }
