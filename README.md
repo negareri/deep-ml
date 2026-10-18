@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**114** solved · 100 problems · 5 labs · 9 math
+**115** solved · 101 problems · 5 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-08-25 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-08-26 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-08-07 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-10-18 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-26 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-10-10 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-26 | [solution](problems/0083-dot-product-calculator) |
