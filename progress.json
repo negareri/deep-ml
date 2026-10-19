@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:50:09.234Z",
+  "generated_at": "2026-10-19T13:53:55.866Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1490,6 +1490,19 @@
       "last_pushed_at": "2026-10-18T22:50:15.932Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-10-19T13:54:04.158Z",
+      "last_pushed_at": "2026-10-19T13:54:04.158Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
