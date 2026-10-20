@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:10:21.892Z",
+  "generated_at": "2026-10-20T17:11:38.041Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -439,9 +439,9 @@
       "url": "https://www.deep-ml.com/problems/9",
       "path": "problems/0009-matrix-times-matrix",
       "first_solved_at": "2026-08-11T14:15:20.025Z",
-      "last_pushed_at": "2026-08-11T14:15:20.025Z",
+      "last_pushed_at": "2026-10-20T17:11:47.497Z",
       "language": "python",
-      "lines": 22
+      "lines": 21
     },
     "problem:11": {
       "kind": "problem",

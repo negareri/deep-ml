@@ -3,7 +3,6 @@ def matrixmul(a:list[list[int|float]], b:list[list[int|float]])-> list[list[int|
     if len(a[0]) != len(b):
         return -1
         
-    
     c = []
 
     for i in range(len(a)):
