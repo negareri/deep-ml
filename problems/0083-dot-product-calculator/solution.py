@@ -9,8 +9,5 @@ def calculate_dot_product(vec1, vec2):
 	Returns:
 		The dot product of the two vectors.
 	"""
-	x = 0
-
-	for i in range(len(vec1)):
-		x += vec1[i] * vec2[i]
-	return x
+	
+	return np.sum(vec1 * vec2)
