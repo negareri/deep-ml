@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**133** solved · 115 problems · 5 labs · 13 math
+**134** solved · 116 problems · 5 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -127,6 +127,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-04 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-08-11 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-06 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+| [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
 
 ## Labs
 
