@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**134** solved · 116 problems · 5 labs · 13 math
+**135** solved · 116 problems · 5 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -154,6 +154,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-04 | [solution](math/0003-neural-network-derivatives) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-22 | [solution](math/0014-orthogonality-and-projections) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-20 | [solution](math/0032-softmax-and-cross-entropy) |
+| [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-22 | [solution](math/0013-solving-linear-systems) |
 | [Variance Preservation and He/Glorot Scaling](https://www.deep-ml.com/math-problems/131) | medium | 2026-10-03 | [solution](math/0131-variance-preservation-and-he-glorot-scaling) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-10-11 | [solution](math/0026-maximum-likelihood-and-map) |
 
