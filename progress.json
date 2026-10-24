@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:04:26.674Z",
+  "generated_at": "2026-10-24T18:05:13.276Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1789,9 +1789,9 @@
       "url": "https://www.deep-ml.com/problems/282",
       "path": "problems/0282-calculate-svm-margin-width",
       "first_solved_at": "2026-10-24T18:04:38.718Z",
-      "last_pushed_at": "2026-10-24T18:04:38.718Z",
+      "last_pushed_at": "2026-10-24T18:05:23.124Z",
       "language": "python",
-      "lines": 15
+      "lines": 18
     }
   }
 }
