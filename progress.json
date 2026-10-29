@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:54:19.494Z",
+  "generated_at": "2026-10-29T21:41:46.966Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1866,6 +1866,19 @@
       "path": "problems/0217-derivatives-of-activation-functions",
       "first_solved_at": "2026-10-29T14:53:27.269Z",
       "last_pushed_at": "2026-10-29T14:54:33.620Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:135": {
+      "kind": "problem",
+      "id": "135",
+      "title": "Implement Early Stopping Based on Validation Loss",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/135",
+      "path": "problems/0135-implement-early-stopping-based-on-validation-loss",
+      "first_solved_at": "2026-10-29T21:42:01.518Z",
+      "last_pushed_at": "2026-10-29T21:42:01.518Z",
       "language": "python",
       "lines": 23
     }
