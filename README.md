@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**152** solved · 132 problems · 5 labs · 15 math
+**153** solved · 133 problems · 5 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-07-26 | [solution](problems/0121-vector-element-wise-sum) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-11-04 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-10-13 | [solution](problems/0240-bilinear-image-resizing) |
+| [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-11-10 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-09 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-27 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-11 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
