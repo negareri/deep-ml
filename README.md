@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**154** solved · 133 problems · 5 labs · 16 math
+**155** solved · 134 problems · 5 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -133,6 +133,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/289) | medium | 2026-10-04 | [solution](problems/0289-implement-xavier-glorot-weight-initialization) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-05 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-08-09 | [solution](problems/0017-k-means-clustering) |
+| [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-14 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-11 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-11 | [solution](problems/0007-matrix-transformation) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-22 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
