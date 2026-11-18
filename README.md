@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**158** solved · 135 problems · 7 labs · 16 math
+**159** solved · 136 problems · 7 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -139,6 +139,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-11 | [solution](problems/0007-matrix-transformation) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-22 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-10-04 | [solution](problems/1236-one-adam-update-step) |
+| [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-11-18 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-28 | [solution](problems/0309-product-rule-for-derivatives) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-04 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-08-07 | [solution](problems/0025-single-neuron-with-backpropagation) |
