@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:53:30.036Z",
+  "generated_at": "2026-11-24T13:28:14.805Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -2061,6 +2061,19 @@
       "last_pushed_at": "2026-11-21T13:53:26.372Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2026-11-24T13:28:13.897Z",
+      "last_pushed_at": "2026-11-24T13:28:13.897Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
